@@ -1,0 +1,19 @@
+C:\Users\Administrator\source\repos\Kinect Data acquisition\Kinect Data acquisition\bin\Debug\Kinect Data acquisition.exe.config
+C:\Users\Administrator\source\repos\Kinect Data acquisition\Kinect Data acquisition\bin\Debug\Kinect Data acquisition.exe
+C:\Users\Administrator\source\repos\Kinect Data acquisition\Kinect Data acquisition\bin\Debug\Kinect Data acquisition.pdb
+C:\Users\Administrator\source\repos\Kinect Data acquisition\Kinect Data acquisition\obj\Debug\Kinect Data acquisition.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Kinect Data acquisition\Kinect Data acquisition\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\Kinect Data acquisition\Kinect Data acquisition\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\Kinect Data acquisition\Kinect Data acquisition\obj\Debug\Kinect Data acquisition_MarkupCompile.cache
+C:\Users\Administrator\source\repos\Kinect Data acquisition\Kinect Data acquisition\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\Kinect Data acquisition\Kinect Data acquisition\obj\Debug\Kinect Data acquisition.g.resources
+C:\Users\Administrator\source\repos\Kinect Data acquisition\Kinect Data acquisition\obj\Debug\Kinect_Data_acquisition.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Kinect Data acquisition\Kinect Data acquisition\obj\Debug\Kinect Data acquisition.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Kinect Data acquisition\Kinect Data acquisition\obj\Debug\Kinect Data acquisition.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Kinect Data acquisition\Kinect Data acquisition\obj\Debug\Kinect Data acquisition.exe
+C:\Users\Administrator\source\repos\Kinect Data acquisition\Kinect Data acquisition\obj\Debug\Kinect Data acquisition.pdb
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\obj\Debug\Kinect Data Acquisition.csproj.CopyComplete

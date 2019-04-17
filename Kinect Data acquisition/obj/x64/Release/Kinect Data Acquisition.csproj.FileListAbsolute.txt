@@ -1,0 +1,19 @@
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\bin\x64\Release\Kinect Data acquisition.exe.config
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\bin\x64\Release\Kinect Data acquisition.exe
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\bin\x64\Release\Kinect Data acquisition.pdb
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\bin\x64\Release\Microsoft.Kinect.dll
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\bin\x64\Release\Microsoft.Kinect.Face.dll
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\bin\x64\Release\Microsoft.Kinect.xml
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\bin\x64\Release\Microsoft.Kinect.Face.xml
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\obj\x64\Release\Kinect Data Acquisition.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\obj\x64\Release\MainWindow.baml
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\obj\x64\Release\MainWindow.g.cs
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\obj\x64\Release\App.g.cs
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\obj\x64\Release\Kinect Data acquisition_MarkupCompile.cache
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\obj\x64\Release\Kinect Data acquisition.g.resources
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\obj\x64\Release\Kinect_Data_acquisition.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\obj\x64\Release\Kinect Data Acquisition.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\obj\x64\Release\Kinect Data Acquisition.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\obj\x64\Release\Kinect Data Acquisition.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\obj\x64\Release\Kinect Data acquisition.exe
+C:\Users\Administrator\source\repos\Kinect data acquisition\Kinect Data acquisition\obj\x64\Release\Kinect Data acquisition.pdb

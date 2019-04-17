@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Kinect data acquisition\BinaryExtractor\bin\Release\BinaryExtractor.exe.config
+C:\Users\Administrator\source\repos\Kinect data acquisition\BinaryExtractor\bin\Release\BinaryExtractor.exe
+C:\Users\Administrator\source\repos\Kinect data acquisition\BinaryExtractor\bin\Release\BinaryExtractor.pdb
+C:\Users\Administrator\source\repos\Kinect data acquisition\BinaryExtractor\bin\Release\Kinect Data acquisition.exe
+C:\Users\Administrator\source\repos\Kinect data acquisition\BinaryExtractor\bin\Release\Microsoft.Kinect.dll
+C:\Users\Administrator\source\repos\Kinect data acquisition\BinaryExtractor\bin\Release\Microsoft.Kinect.Face.dll
+C:\Users\Administrator\source\repos\Kinect data acquisition\BinaryExtractor\bin\Release\Kinect Data acquisition.pdb
+C:\Users\Administrator\source\repos\Kinect data acquisition\BinaryExtractor\bin\Release\Kinect Data acquisition.exe.config
+C:\Users\Administrator\source\repos\Kinect data acquisition\BinaryExtractor\bin\Release\Microsoft.Kinect.xml
+C:\Users\Administrator\source\repos\Kinect data acquisition\BinaryExtractor\bin\Release\Microsoft.Kinect.Face.xml
+C:\Users\Administrator\source\repos\Kinect data acquisition\BinaryExtractor\obj\Release\BinaryExtractor.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Kinect data acquisition\BinaryExtractor\obj\Release\BinaryExtractor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Kinect data acquisition\BinaryExtractor\obj\Release\BinaryExtractor.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Kinect data acquisition\BinaryExtractor\obj\Release\BinaryExtractor.exe
+C:\Users\Administrator\source\repos\Kinect data acquisition\BinaryExtractor\obj\Release\BinaryExtractor.pdb
