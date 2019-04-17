@@ -8,7 +8,7 @@ written by asakuras
 Kinect V2 is the second generation of somatosensory equipment created for Xbox gamers released by Microsoft. Because of its various cameras and the high-definition pixel, we can use it to gather information we need such as colorFrame, depthFrame, bodyIndexFrame, facePointFrame and so on.
 
 
-![Image text](1.png)
+![Image text](img/1.png)
 
 * RGB camera: this camera is used to gather the color images
 * IR Emitter: it will emit infrared rays
