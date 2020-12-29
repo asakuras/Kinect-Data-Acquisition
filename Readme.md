@@ -4,7 +4,7 @@
 
 written by asakuras
 
-###What is Kinect V2
+### What is Kinect V2
 Kinect V2 is the second generation of somatosensory equipment created for Xbox gamers released by Microsoft. Because of its various cameras and the high-definition pixel, we can use it to gather information we need such as colorFrame, depthFrame, bodyIndexFrame, facePointFrame and so on.
 
 
